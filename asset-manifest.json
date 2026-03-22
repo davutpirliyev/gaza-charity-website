@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gaza-charity-website/static/css/main.9006c712.css",
+    "main.js": "/gaza-charity-website/static/js/main.f265eb40.js",
+    "index.html": "/gaza-charity-website/index.html",
+    "main.9006c712.css.map": "/gaza-charity-website/static/css/main.9006c712.css.map",
+    "main.f265eb40.js.map": "/gaza-charity-website/static/js/main.f265eb40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9006c712.css",
+    "static/js/main.f265eb40.js"
+  ]
+}
