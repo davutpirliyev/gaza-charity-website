@@ -1,2 +1,2 @@
-# Gaza-charity
+# Gaza-charity-website
 Donate for Gaza
